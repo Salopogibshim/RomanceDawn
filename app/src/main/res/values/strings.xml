@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Romance Dawn</string>
+    <string name="title_home">Map</string>
+    <string name="title_help">Help Information</string>
+    <string name="title_notifications">Gear</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_stars">Stars Routes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
